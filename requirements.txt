@@ -1,0 +1,12 @@
+yfinance
+beautifulsoup4
+streamlit
+requests
+newspaper3k
+groq
+python-dotenv
+numpy
+pandas
+streamlit-lightweight-charts
+lxml_html_clean
+plotly
